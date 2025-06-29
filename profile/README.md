@@ -1,8 +1,8 @@
-# [@Panquesito7](https://github.com/Panquesito7)'s open-source contributions 🚀
+# My forks and contributions to other projects
 
 Hi there! 👀
 
-This organization is solely for the purpose of contributing to other repositories via pull requests.\
-You can find all of my projects on my [GitHub profile](https://github.com/Panquesito7) 🙂 I'll be creating more soon!
+In this organization, I'll be storing forks of other repositories that I'll contribute to via pull requests, so that you can identify my projects easier.\
+As of now, there are no repositories (well, only two) because I've a bunch of forks in my profile and I still need to move them over here.
 
-## ❤️ Feel free to [sponsor me](https://github.com/sponsors/Panquesito7) if you appreciate my work!
+You can find all my (limited amount of) projects on my profile.
